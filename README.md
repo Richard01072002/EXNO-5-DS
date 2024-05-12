@@ -82,25 +82,6 @@ plt.plot(yield_apples)
 
 ![image](https://github.com/KayyuruTharani/EXNO-5-DS/assets/142209319/1759e6f8-64ab-4668-a6d9-2083457dc0fa)
 
-```
-years=[2010,2011,2012,2013,2014,2015]
-yeild_apples=[0.895,0.91,0.919,0.926,0.929,0.931]
-plt.plot(years,yeild_apples)
-```
-
-![image](https://github.com/KayyuruTharani/EXNO-5-DS/assets/142209319/8d7de7e0-e60f-4a27-ad6c-7dae3125b549)
-
-```
-years=range(2000,2012)
-apples= [0.895,0.91,0.919,0.926,0.929,0.931,0.934,0.936,0.937,0.9375,0.9372,0.939]
-oranges=[0.962,0.941,0.930,0.923,0.918,0.908,0.907,0.904,0.901,0.898,0.9,0.896,]
-plt.plot(years,apples)
-plt.plot(years,oranges)
-plt.xlabel('Year')
-plt.ylabel('Yeild(tons per hectare)');
-```
-
-![image](https://github.com/KayyuruTharani/EXNO-5-DS/assets/142209319/7f7c1cdb-b5e3-4fa0-bfaa-a758f3468e1e)
 
 ```
 plt.plot(years,apples)
